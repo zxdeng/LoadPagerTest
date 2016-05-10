@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoadPager Library</string>
+    <string name="load_error">加载失败，请点击重新加载！</string>
+</resources>
